@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'My Green App',
   tagline: 'Track and improve your lifestyle',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/greenappfront.jpeg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
