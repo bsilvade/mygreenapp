@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
-      subtitle="Example About Page"
+      subtitle=""
       image="/uploads/home-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -25,38 +25,29 @@
            <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">
-                Cool Stuff We Do
-              </p>
+              <h3>
+                Pedro Teixeira
+              </h3>
               <p class="subtitle">
-                Sooo Cool
+                CEO
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
+              <p>
+              Regional Director in a listed MNC 
+              15+ years in P&L & M&S experience
+              Lived in Portugal, UK, Doha & Singapore
+              Master in Engineering; MBA
+              Top 10 in the Portuguese 40 Under 40 Award 
+              </p>
             </article>
           </div>
           
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">
-                Other Cool Things
-              </p>
+              <h3>
+                Bruno Sousa
+              </h3>
               <p class="subtitle">
-                Just as cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                All the cool
-              </p>
-              <p class="subtitle">
-                that is all
+                CTO
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
