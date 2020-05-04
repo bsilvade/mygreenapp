@@ -67,7 +67,9 @@
               Engineering Degree in Computing Science; MBA
               </br>
               Team Leader at CERN
-              <figure class=" ">
+            </article>
+            <div align="right>
+               <figure class=" ">
                 <opti-image
                   :src="require('~/assets/uploads/Bruno Sousa.png').src"
                   :srcset="
@@ -75,8 +77,7 @@
                   " width="150" height="150" 
                 />
               </figure>
-              
-            </article>
+            </div>
           </div>
         </div>
         </div>
