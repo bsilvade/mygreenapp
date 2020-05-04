@@ -46,10 +46,10 @@
               <h3>
                 Bruno Sousa
               </h3>
-              <p class="subtitle">
-                CTO
-              </p>
               <p style="white-space: pre-line;">
+              <span class="subtitle">
+                CTO
+              </span>
               IT Manager & Technology Strategist
               14+ years experience 
               Lived in Portugal and Switzerland
