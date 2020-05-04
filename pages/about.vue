@@ -32,15 +32,21 @@
                 CEO
               </p>
               <p>
+              <span>
               Regional Director in a listed MNC 
-              </br>
+              </span>
+              <span>
               15+ years in P&L & M&S experience
-              </br>
+              </span>
+              <span>
               Lived in Portugal, UK, Doha & Singapore
-              </br>
+              </span>
+              <span>
               Master in Engineering; MBA
-              </br>
-              Top 10 in the Portuguese 40 Under 40 Award 
+              </span>
+              <span>
+              Top 10 in the Portuguese 40 Under 40 Award
+              </span>
               </p>
             </article>
           </div>
@@ -54,15 +60,21 @@
                 CTO
               </p>
               <p>
+              <span>
               IT Manager & Technology Strategist
-              </br>
+              </span>
+              <span>
               14+ years experience 
-              </br>
+              </span>
+              <span>
               Lived in Portugal and Switzerland
-              </br>
+              </span>
+              <span>
               Engineering Degree in Computing Science; MBA
-              </br>
+              </span>
+              <span>
               Team Leader at CERN
+              </span>
               </p>
 
             </article>
