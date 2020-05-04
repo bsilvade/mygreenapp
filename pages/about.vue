@@ -40,6 +40,13 @@
               Master in Engineering; MBA
               </br>
               Top 10 in the Portuguese 40 Under 40 Award
+              <figure class=" ">
+                <opti-image
+                  :src="require('~/assets/uploads/Pedro Teixeira.png').src"
+                  :srcset="
+                    require('~/assets/uploads/Pedro Teixeira.png').srcSet
+                  " width="150" height="150" 
+                />
             </article>
           </div>
           
