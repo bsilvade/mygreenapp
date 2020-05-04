@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'mygreenapp.org - go green!',
-  tagline: 'Global Sustainable App to reduce your carbon footprint. Track and improve your lifestyle.',
+  siteName: 'Global Sustainable App to reduce your carbon footprint',
+  tagline: 'Track and improve your lifestyle.',
   featureImage: '/uploads/greenappfront.jpeg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
