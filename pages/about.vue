@@ -68,6 +68,8 @@
                     require('~/assets/uploads/Bruno Sousa.png').srcSet
                   " width="100" height="100" 
                 />
+              </div>
+              <div>
               IT Manager & Technology Strategist
               </br>
               14+ years experience
