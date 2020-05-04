@@ -39,7 +39,7 @@
                   :src="require('~/assets/uploads/Pedro Teixeira.png').src"
                   :srcset="
                     require('~/assets/uploads/Pedro Teixeira.png').srcSet
-                  " width="150" height="150" 
+                  " width="125" height="125" 
                 />
               </div>
               <div>
@@ -71,7 +71,7 @@
                   :src="require('~/assets/uploads/Bruno Sousa.png').src"
                   :srcset="
                     require('~/assets/uploads/Bruno Sousa.png').srcSet
-                  " width="150" height="150" 
+                  " width="125" height="125" 
                 />
               </div>
               <div>
