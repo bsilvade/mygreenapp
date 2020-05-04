@@ -59,6 +59,15 @@
               <p class="subtitle">
                 CTO
               </p>
+              </div>
+              <div id="right" style="float:right">
+               <figure class=" ">
+                <opti-image
+                  :src="require('~/assets/uploads/Bruno Sousa.png').src"
+                  :srcset="
+                    require('~/assets/uploads/Bruno Sousa.png').srcSet
+                  " width="100" height="100" 
+                />
               IT Manager & Technology Strategist
               </br>
               14+ years experience
@@ -68,15 +77,6 @@
               Engineering Degree in Computing Science; MBA
               </br>
               Team Leader at CERN
-              </div>
-              <div id="right" style="float:right">
-               <figure class=" ">
-                <opti-image
-                  :src="require('~/assets/uploads/Bruno Sousa.png').src"
-                  :srcset="
-                    require('~/assets/uploads/Bruno Sousa.png').srcSet
-                  " width="150" height="150" 
-                />
               </figure>
               </div>
             </article>
