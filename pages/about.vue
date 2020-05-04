@@ -22,7 +22,48 @@
           My Green App – Go green was born in October 2019 in Portugal &amp; Singapore.
           </p>
           <h3>Founders</h3>
+           <div class="tile is-ancestor">
+          <div class="tile is-parent">
+            <article class="tile is-child box">
+              <p class="title">
+                Cool Stuff We Do
+              </p>
+              <p class="subtitle">
+                Sooo Cool
+              </p>
+              <figure class="image is-1by1">
+                <opti-image width="500" height="500" />
+              </figure>
+            </article>
+          </div>
           
+          <div class="tile is-parent">
+            <article class="tile is-child box">
+              <p class="title">
+                Other Cool Things
+              </p>
+              <p class="subtitle">
+                Just as cool
+              </p>
+              <figure class="image is-1by1">
+                <opti-image width="500" height="500" />
+              </figure>
+            </article>
+          </div>
+          <div class="tile is-parent">
+            <article class="tile is-child box">
+              <p class="title">
+                All the cool
+              </p>
+              <p class="subtitle">
+                that is all
+              </p>
+              <figure class="image is-1by1">
+                <opti-image width="500" height="500" />
+              </figure>
+            </article>
+          </div>
+        </div>
         </div>
         </template>
 
