@@ -31,22 +31,12 @@
               <p class="subtitle">
                 CEO
               </p>
-              <p>
-              <span>
+              <p style="white-space: pre-line;">
               Regional Director in a listed MNC 
-              </span>
-              <span>
               15+ years in P&L & M&S experience
-              </span>
-              <span>
               Lived in Portugal, UK, Doha & Singapore
-              </span>
-              <span>
               Master in Engineering; MBA
-              </span>
-              <span>
               Top 10 in the Portuguese 40 Under 40 Award
-              </span>
               </p>
             </article>
           </div>
@@ -59,22 +49,12 @@
               <p class="subtitle">
                 CTO
               </p>
-              <p>
-              <span>
+              <p style="white-space: pre-line;">
               IT Manager & Technology Strategist
-              </span>
-              <span>
               14+ years experience 
-              </span>
-              <span>
               Lived in Portugal and Switzerland
-              </span>
-              <span>
               Engineering Degree in Computing Science; MBA
-              </span>
-              <span>
               Team Leader at CERN
-              </span>
               </p>
 
             </article>
