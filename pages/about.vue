@@ -52,6 +52,7 @@
           
           <div class="tile is-parent">
             <article class="tile is-child box">
+              <div id="left">
               <h3>
                 Bruno Sousa
               </h3>
@@ -67,6 +68,8 @@
               Engineering Degree in Computing Science; MBA
               </br>
               Team Leader at CERN
+              </div>
+              <div id="right">
                <figure class=" ">
                 <opti-image
                   :src="require('~/assets/uploads/Bruno Sousa.png').src"
@@ -75,6 +78,7 @@
                   " width="150" height="150" 
                 />
               </figure>
+              </div>
             </article>
           </div>
         </div>
