@@ -65,7 +65,7 @@
                   :src="require('~/assets/uploads/Bruno Sousa.png').src"
                   :srcset="
                     require('~/assets/uploads/Bruno Sousa.png').srcSet
-                  " width="200" height="200" 
+                  " width="150" height="150" 
                 />
               </figure>
               
