@@ -60,6 +60,9 @@
               Engineering Degree in Computing Science; MBA
               </br>
               Team Leader at CERN
+              <figure class="image is-1by1" src="/uploads/Bruno Sousa.png">
+                <opti-image width="200" height="200" />
+              </figure>
             </article>
           </div>
         </div>
