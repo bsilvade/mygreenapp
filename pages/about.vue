@@ -25,12 +25,24 @@
            <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
+            <div id="left">
               <h3>
                 Pedro Teixeira
               </h3>
               <p class="subtitle">
                 CEO
               </p>
+            </div>
+              <div id="right" style="float:right">
+               <figure class=" ">
+                <opti-image
+                  :src="require('~/assets/uploads/Pedro Teixeira.png').src"
+                  :srcset="
+                    require('~/assets/uploads/Pedro Teixeira.png').srcSet
+                  " width="150" height="150" 
+                />
+              </div>
+              <div>
               Regional Director in a listed MNC 
               </br>
               15+ years in P&L & M&S experience
@@ -40,13 +52,6 @@
               Master in Engineering; MBA
               </br>
               Top 10 in the Portuguese 40 Under 40 Award
-              <figure class=" ">
-                <opti-image
-                  :src="require('~/assets/uploads/Pedro Teixeira.png').src"
-                  :srcset="
-                    require('~/assets/uploads/Pedro Teixeira.png').srcSet
-                  " width="150" height="150" 
-                />
             </article>
           </div>
           
@@ -66,7 +71,7 @@
                   :src="require('~/assets/uploads/Bruno Sousa.png').src"
                   :srcset="
                     require('~/assets/uploads/Bruno Sousa.png').srcSet
-                  " width="100" height="100" 
+                  " width="150" height="150" 
                 />
               </div>
               <div>
