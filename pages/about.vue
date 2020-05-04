@@ -31,13 +31,15 @@
               <p class="subtitle">
                 CEO
               </p>
-              <p style="white-space: pre-line;">
               Regional Director in a listed MNC 
+              </br>
               15+ years in P&L & M&S experience
+              </br>
               Lived in Portugal, UK, Doha & Singapore
+              </br>
               Master in Engineering; MBA
+              </br>
               Top 10 in the Portuguese 40 Under 40 Award
-              </p>
             </article>
           </div>
           
@@ -46,17 +48,18 @@
               <h3>
                 Bruno Sousa
               </h3>
-              <p style="white-space: pre-line;">
-              <span class="subtitle">
+              <p class="subtitle">
                 CTO
-              </span>
-              IT Manager & Technology Strategist
-              14+ years experience 
-              Lived in Portugal and Switzerland
-              Engineering Degree in Computing Science; MBA
-              Team Leader at CERN
               </p>
-
+              IT Manager & Technology Strategist
+              </br>
+              14+ years experience
+              </br>
+              Lived in Portugal and Switzerland
+              </br>
+              Engineering Degree in Computing Science; MBA
+              </br>
+              Team Leader at CERN
             </article>
           </div>
         </div>
