@@ -69,7 +69,7 @@
               </br>
               Team Leader at CERN
               </div>
-              <div id="right">
+              <div id="right" style="float:right">
                <figure class=" ">
                 <opti-image
                   :src="require('~/assets/uploads/Bruno Sousa.png').src"
