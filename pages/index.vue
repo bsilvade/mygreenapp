@@ -60,7 +60,7 @@ export default {
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
     font-size: 180%;
-    font-family: arial;
+    font-family: monospace;
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
