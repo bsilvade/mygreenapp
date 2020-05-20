@@ -69,8 +69,8 @@ export default {
 
 /* Animation */
 .anim-typewriter{
-  animation: typewriter 4s steps(44) 1s 1 normal both,
-             blinkTextCursor 500ms steps(44) infinite normal;
+  animation: typewriter 5s steps(30) 1s 1 normal both,
+             blinkTextCursor 600ms steps(30) infinite normal;
 }
 @keyframes typewriter{
   from{width: 0;}
