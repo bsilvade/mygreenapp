@@ -1,6 +1,6 @@
 ---
 title: How it started
-subtitle: What's all about sustainability?
+subtitle: Do you have any green app installed?
 category:
   - About Awake
 author: Pedro Teixeira
