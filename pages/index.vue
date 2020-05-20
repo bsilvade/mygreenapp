@@ -11,6 +11,9 @@
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
+        <center>
+          Video coming soon!
+        </center>
         <!-- All Posts -->
         <!-- posts-grid / -->
       </template>
