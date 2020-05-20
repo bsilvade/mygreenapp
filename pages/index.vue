@@ -12,7 +12,7 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
-        <posts-grid />
+        <!-- posts-grid / -->
       </template>
       <template v-slot:sidebar>
         Nothing here
