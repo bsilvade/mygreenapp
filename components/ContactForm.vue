@@ -4,7 +4,7 @@
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="John Smith" />
+        <input class="input is-medium" type="text" placeholder="" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -17,24 +17,10 @@
         <input
           class="input is-medium"
           type="email"
-          placeholder="you@email.com"
+          placeholder=""
         />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="envelope" />
-        </span>
-      </div>
-    </div>
-    <!-- Subject -->
-    <div class="field">
-      <label class="label is-medium">Subject</label>
-      <div class="control has-icons-left">
-        <input
-          class="input is-medium"
-          type="text"
-          placeholder="Brief Summary"
-        />
-        <span class="icon is-small is-left">
-          <font-awesome-icon icon="briefcase" />
         </span>
       </div>
     </div>
