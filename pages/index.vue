@@ -11,9 +11,11 @@
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
+      <div style="margin=50px">
         <center>
         <p class="line-1 anim-typewriter title animated fadeInUp">More coming soon... Please stay tuned!</p>
         </center>
+       </div>
         <!-- All Posts -->
         <posts-grid />
       </template>
