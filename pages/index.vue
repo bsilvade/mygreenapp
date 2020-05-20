@@ -12,10 +12,10 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <center>
-        <p class="line-1 anim-typewriter title animated fadeInUp">More coming soon! Stay tuned...</p>
+        <p class="line-1 anim-typewriter title animated fadeInUp">More coming soon... Please stay tuned!</p>
         </center>
         <!-- All Posts -->
-        <!-- posts-grid / -->
+        <posts-grid />
       </template>
       <template v-slot:sidebar>
         Nothing here
