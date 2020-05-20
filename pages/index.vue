@@ -12,7 +12,7 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <center>
-        <h1>
+        <h1 class="title animated fadeInUp">
           Video coming soon!
         </h1>
         </center>
