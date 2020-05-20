@@ -77,7 +77,7 @@ export default {
   to{width: 24em;}
 }
 @keyframes blinkTextCursor{
-  from{border-right-color: rgba(255,255,255,.75);}
+  from{border-right-color: black;}
   to{border-right-color: transparent;}
 }
 
