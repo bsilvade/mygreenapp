@@ -12,7 +12,9 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <center>
+        <h1>
           Video coming soon!
+        </h1>
         </center>
         <!-- All Posts -->
         <!-- posts-grid / -->
