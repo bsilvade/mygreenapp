@@ -12,11 +12,7 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <center>
-        <h1 class="title animated fadeInUp">
-          More coming soon!
-          Stay tuned
-        </h1>
-        <p class="line-1 anim-typewriter">Stay tuned</p>
+        <p class="line-1 anim-typewriter title animated fadeInUp">More coming soon! Stay tuned...</p>
         </center>
         <!-- All Posts -->
         <!-- posts-grid / -->
