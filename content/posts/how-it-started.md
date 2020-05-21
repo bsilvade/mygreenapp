@@ -1,5 +1,5 @@
 ---
-title: How it started
+title: How It Started
 subtitle: Do you have any green app installed?
 category:
   - About Awake
