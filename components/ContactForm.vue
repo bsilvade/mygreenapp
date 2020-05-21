@@ -1,7 +1,8 @@
 <template>
-<form name="contactUs" method="POST" data-netlify="true">
-    <input type="hidden" name="form-name" value="contactUs" />
-    <!-- Name -->
+<form name="contactUs" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+  <p class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+  </p>    <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
