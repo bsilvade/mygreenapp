@@ -1,5 +1,6 @@
 <template>
-<form name="contactUs" method="POST" data-netlify="true">
+<form name="contactUs" method="POST" data-netlify="true"
+    data-netlify-honeypot="bot-field">
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
@@ -36,7 +37,7 @@
       </div>
     </div>
     <div class="control">
-      <button class="button is-primary" type="submit">
+      <button class="button is-primary">
         Contact Us
       </button>
     </div>
