@@ -5,7 +5,7 @@ category:
   - About Awake
 author: Pedro Teixeira
 date: 2020-05-20T03:02:00.000Z
-featureImage: /uploads/markup-hero.jpg
+featureImage: /uploads/resource-grid-hero.jpg
 ---
 Awake uses the awesome npm package [markdown-it ](https://github.com/markdown-it/markdown-it)by [Vitaly Puzrin](https://github.com/puzrin) to provide a wealth of markup options for your posts
 
