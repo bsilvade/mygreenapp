@@ -74,7 +74,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://mygreenapp.us18.list-manage.com/subscribe/post?u=5e45a07bc926cd7f83cdc7203&amp;id=cc40f7b4ce'
     },
     custom: {
       on: false,
