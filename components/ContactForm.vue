@@ -46,7 +46,7 @@
   </form>
 </template>
 <style>
- hidden{
+ .hidden{
  visibility:hidden;
  }
 </style>
