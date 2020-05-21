@@ -39,7 +39,7 @@
       </div>
     </div>
     <div class="control">
-      <button class="button is-primary" type="submit">
+      <button class="button is-primary">
         Contact Us
       </button>
     </div>
