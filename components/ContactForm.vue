@@ -31,6 +31,7 @@
       <label class="label is-medium">Message</label>
       <div class="control">
         <textarea
+          name= "message"
           class="textarea"
           placeholder="Detailed description of your comment, request, etc"
           rows="8"
@@ -38,7 +39,7 @@
       </div>
     </div>
     <div class="control">
-      <button class="button is-primary">
+      <button class="button is-primary" type="submit">
         Contact Us
       </button>
     </div>
