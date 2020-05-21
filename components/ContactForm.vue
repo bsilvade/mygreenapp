@@ -45,3 +45,8 @@
     </div>
   </form>
 </template>
+<style>
+ hidden{
+ visibility:hidden;
+ }
+</style>
