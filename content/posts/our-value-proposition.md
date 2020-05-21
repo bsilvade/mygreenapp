@@ -3,7 +3,7 @@ title: Our Value Proposition
 subtitle: What its all about?
 author: Pedro Teixeira
 date: 2020-05-20T03:02:00.000Z
-featureImage: /uploads/markup-hero.jpg
+featureImage: /uploads/greenappfront.jpeg
 ---
 Awake uses the awesome npm package [markdown-it ](https://github.com/markdown-it/markdown-it)by [Vitaly Puzrin](https://github.com/puzrin) to provide a wealth of markup options for your posts
 
