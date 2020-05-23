@@ -13,7 +13,9 @@
       <template v-slot:default>
       <div style="margin:50px,text-align: center">
         <p class="line-1 anim-typewriter title animated fadeInUp">
-        More coming soon... Please stay tuned!
+        More coming soon... 
+        </br>
+        Please stay tuned!
         </p>
        </div>
         <!-- All Posts -->
