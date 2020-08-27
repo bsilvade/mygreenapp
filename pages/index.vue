@@ -13,11 +13,9 @@
       <template v-slot:default>
       <center>
         <div style="margin:50px,text-align: center">
-        <center>
           <video width="640" height="240" controls autoplay>
             <source src="/MyGreenApp_SubscribeNewsletter_Version.mp4" type="video/mp4">
           </video>
-        </center>
       </center>
         <!-- p class="line-1 anim-typewriter title animated fadeInUp">
         More coming soon... Please stay tuned!
