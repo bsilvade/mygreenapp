@@ -4,6 +4,7 @@
       title="About Us"
       subtitle=""
       image="/uploads/home-hero.jpg"
+      poster="/uploads/greenapplogo.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

@@ -12,7 +12,7 @@
           {{ title }}
         </h1>
         <center>
-        <video width="640" height="240" autoplay controls poster= {{ poster }}>
+        <video width="640" height="240" autoplay controls poster=" {{ poster }}">
           <source src="/MyGreenApp.mp4" type="video/mp4">
         </video>
       </center>
@@ -39,7 +39,7 @@ export default {
     image: { type: String, default: '' },
     color: { type: String, default: '#469af0' },
     theme: { type: String, default: '' },
-    poster: '/uploads/greenapplogo.jpeg'
+    poster: { type: String, default: '' }
   },
   computed: {
     responsiveImage() {
