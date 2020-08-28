@@ -7,6 +7,11 @@
       :srcset="responsiveImage.srcSet"
     />
     <div class="hero-body">
+    <center>
+        <video width="640" height="240" controls autoplay>
+          <source src="/MyGreenApp.mp4" type="video/mp4">
+        </video>
+      </center>
       <div class="container">
         <h1 class="title animated fadeInUp">
           {{ title }}

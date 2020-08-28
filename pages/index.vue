@@ -1,11 +1,6 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
-      <center>
-        <video width="640" height="240" controls autoplay>
-          <source src="/MyGreenApp.mp4" type="video/mp4">
-        </video>
-      </center>
       <button
         v-if="$siteConfig.newsletter.on"
         class="button is-primary"
