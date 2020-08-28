@@ -1,6 +1,11 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
+      <center>
+        <video width="640" height="240" controls autoplay>
+          <source src="/MyGreenApp.mp4" type="video/mp4">
+        </video>
+      </center>
       <button
         v-if="$siteConfig.newsletter.on"
         class="button is-primary"
@@ -12,14 +17,9 @@
     <main-section theme="one-column">
       <template v-slot:default>
       <div style="margin:50px,text-align: center">
-      <center>
-        <video width="640" height="240" controls autoplay>
-          <source src="/MyGreenApp.mp4" type="video/mp4">
-        </video>
-      </center>
-        <!-- p class="line-1 anim-typewriter title animated fadeInUp">
+        <p class="line-1 anim-typewriter title animated fadeInUp">
         More coming soon... Please stay tuned!
-        </p -->
+        </p>
        </div>
         <!-- All Posts -->
         <posts-grid />
