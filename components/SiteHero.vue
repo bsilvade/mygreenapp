@@ -12,7 +12,7 @@
           {{ title }}
         </h1>
         <center>
-        <video width="640" height="240" autoplay controls>
+        <video width="640" height="240" autoplay controls poster="/uploads/greenapplogo.jpeg">
           <source src="/MyGreenApp.mp4" type="video/mp4">
         </video>
       </center>
