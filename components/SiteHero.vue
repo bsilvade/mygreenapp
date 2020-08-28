@@ -12,10 +12,10 @@
           {{ title }}
         </h1>
         {{ showvideo }}
-        <center v-if="showvideo === 'false'">
-        <video width="640" height="240" autoplay controls poster="/greenapplogo.jpeg">
-          <source src="/MyGreenApp.mp4" type="video/mp4">
-        </video>
+        <center v-if="showvideo == 'true'">
+          <video width="640" height="240" autoplay controls poster="/greenapplogo.jpeg">
+            <source src="/MyGreenApp.mp4" type="video/mp4">
+          </video>
       </center>
         <h2 class="subtitle animated fadeInUp slower">
           {{ subtitle }}
