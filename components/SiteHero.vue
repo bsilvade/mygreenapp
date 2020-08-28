@@ -11,7 +11,8 @@
         <h1 class="title animated fadeInUp">
           {{ title }}
         </h1>
-        <center v-if="$showvideo ==='true'">
+        {{ showvideo }}
+        <center v-if="showvideo === 'true'">
         <video width="640" height="240" autoplay controls poster="/greenapplogo.jpeg">
           <source src="/MyGreenApp.mp4" type="video/mp4">
         </video>
