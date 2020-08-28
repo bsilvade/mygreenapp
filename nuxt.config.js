@@ -37,13 +37,7 @@ export default {
   /*
    ** Build configuration
    */
-  build: build,
-  
-  debug: {
-  enabled: true,
-  sendHitTask: true
-}
-
+  build: build
 }
 
 /**
