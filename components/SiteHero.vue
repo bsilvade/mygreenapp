@@ -12,7 +12,7 @@
           {{ title }}
         </h1>
         {{ showvideo }}
-        <center v-if="showvideo === 'true'">
+        <center v-if="showvideo === 'false'">
         <video width="640" height="240" autoplay controls poster="/greenapplogo.jpeg">
           <source src="/MyGreenApp.mp4" type="video/mp4">
         </video>
