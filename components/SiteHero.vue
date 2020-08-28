@@ -11,7 +11,7 @@
         <h1 class="title animated fadeInUp">
           {{ title }}
         </h1>
-        <center v-if="${showvideo} == 'true'">
+        <center v-if="showvideo">
           <video width="640" height="240" autoplay controls poster="/greenapplogo.jpeg">
             <source src="/MyGreenApp.mp4" type="video/mp4">
           </video>
@@ -39,7 +39,7 @@ export default {
     image: { type: String, default: '' },
     color: { type: String, default: '#469af0' },
     theme: { type: String, default: '' },
-    showvideo: { type: String, default: 'false' }
+    showvideo: { type: Boolean, default: false }
 
   },
   computed: {
