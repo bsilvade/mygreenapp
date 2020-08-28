@@ -8,7 +8,7 @@
     />
     <div class="hero-body">
     <center>
-        <video width="640" height="240" controls autoplay>
+        <video width="640" height="240" controls autoplay="autoplay">
           <source src="/MyGreenApp.mp4" type="video/mp4">
         </video>
       </center>
