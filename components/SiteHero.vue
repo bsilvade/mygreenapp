@@ -12,7 +12,7 @@
           {{ title }}
         </h1>
         <center>
-        <video width="640" height="240" autoplay>
+        <video width="640" height="240" autoplay controls>
           <source src="/MyGreenApp.mp4" type="video/mp4">
         </video>
       </center>
