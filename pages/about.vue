@@ -97,7 +97,7 @@
           The Journey
         </h3>
         <!-- Latest Posts -->
-        <posts-grid :per-row="1" :number="2" />
+        <!-- posts-grid :per-row="1" :number="2" / -->
       </template>
     </main-section>
   </div>
