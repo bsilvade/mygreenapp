@@ -12,7 +12,7 @@
     <main-section theme="one-column">
       <template v-slot:default>
       <style>  
-      @media screen and (min-width: 0px) and (max-width: 699) 
+      @media screen and (max-width: 699) 
       {
          #mobileSite { display: none; }  
       }
