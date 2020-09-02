@@ -11,17 +11,17 @@
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
+      <style>  
+      @media screen and (min-width: 0px) and (max-width: 699) 
+      {
+         #mobileSite { display: none; }  
+      }
+      </style>  
       <div style="margin:50px,text-align: center">
         <p class="line-1 anim-typewriter title animated fadeInUp mobileSite">
         More coming soon... Please stay tuned!
         </p>
        </div>
-        <style>  
-      @media screen and (min-width: 0px) and (max-width: 699) {
-         #mobileSite { display: none; }  
-        }
-      </style>  
-
         <!-- All Posts -->
         <!-- posts-grid / -->
       </template>
