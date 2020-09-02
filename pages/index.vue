@@ -11,8 +11,8 @@
     </site-hero>
     <main-section theme="one-column">
       <template v-slot:default>
-      <div style="margin:50px,text-align: center" class="mobileSite">
-        <p class="line-1 anim-typewriter title animated fadeInUp">
+      <div style="margin:50px,text-align: center">
+        <p class="line-1 anim-typewriter title animated fadeInUp mobileSite">
         More coming soon... Please stay tuned!
         </p>
        </div>
