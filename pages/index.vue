@@ -12,13 +12,13 @@
     <main-section theme="one-column">
       <template v-slot:default>
       <style>  
-      @media screen and (max-width: 699) 
+      @media screen
       {
          #mobileSite { display: none; }  
       }
       </style>  
-      <div style="margin:50px,text-align: center">
-        <p class="line-1 anim-typewriter title animated fadeInUp mobileSite">
+      <div style="margin:50px,text-align: center" class="mobileSite">
+        <p class="line-1 anim-typewriter title animated fadeInUp">
         More coming soon... Please stay tuned!
         </p>
        </div>
