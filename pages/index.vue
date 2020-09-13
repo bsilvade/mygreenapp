@@ -23,7 +23,7 @@
         </p>
        </div>
         <!-- All Posts -->
-        <!-- posts-grid / -->
+        <posts-grid />
       </template>
       <template v-slot:sidebar>
         Nothing here
