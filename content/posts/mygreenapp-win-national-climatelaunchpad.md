@@ -4,7 +4,7 @@ subtitle:
 category:
   - ClimateLauchPad
 author: Pedro Teixeira
-date: 2020-04-2T03:02:00.000Z
+date: 2020-09-2T13:02:00.000Z
 featureImage: /uploads/mygreenapp-climatelaunchpad.png
 ---
 > Couro exótico, sapatilhas ecológicas e uma app para reduzir a pegada de carbono vencem final nacional do ClimateLaunchpad
