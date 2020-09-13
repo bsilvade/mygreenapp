@@ -16,9 +16,9 @@
         <div class="post-wrapper">
           <markdown :markdown="$store.state.content" />
           <div class="other-posts">
-            <h6 class="subtitle is-size-4">
+            <!-- h6 class="subtitle is-size-4">
               Related Posts
-            </h6>
+            </h6 -->
             <!-- Related Posts -->
             <!-- posts-grid :number="3" :category="category" :exclude="slug" / -->
           </div>
