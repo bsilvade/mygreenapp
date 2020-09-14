@@ -18,9 +18,9 @@
       }
       </style>  
       <div style="margin:50px,text-align: center" class="mobileSite">
-        <p class="line-1 anim-typewriter title animated fadeInUp">
+        <!-- p class="line-1 anim-typewriter title animated fadeInUp">
         More coming soon... Please stay tuned!
-        </p>
+        </p -->
        </div>
         <!-- All Posts -->
         <posts-grid />
