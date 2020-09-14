@@ -7,4 +7,4 @@ author: Pedro Teixeira
 date: 2020-08-15T13:02:00.000Z
 featureImage: /uploads/ClimateLaunchpad-No-Background.png
 ---
-[Read more at ClimateLaunchpad](https://globalfinal.climatelaunchpad.org/regional-finals/europe/).
+[More at the ClimateLaunchpad](https://globalfinal.climatelaunchpad.org/regional-finals/europe/) website.
