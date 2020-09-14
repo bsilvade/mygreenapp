@@ -4,7 +4,7 @@ subtitle:
 category:
   - ClimateLauchPad
 author: Pedro Teixeira
-date: 2020-09-2T13:02:00.000Z
+date: 2020-07-2T13:02:00.000Z
 featureImage: /uploads/mygreenapp-climatelaunchpad.png
 ---
 MyGreenApp was selected to represent Portugal at the ClimateLaunchPad - the largest cleantech competition in the world. From UPTEC:
