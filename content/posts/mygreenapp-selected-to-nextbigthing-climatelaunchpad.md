@@ -1,10 +1,10 @@
 ---
-title: MyGreenApp was selected to the "Next Big Thing!" category at the ClimateLauchPad 2020
+title: MyGreenApp selected to the "Next Big Thing!" category at ClimateLaunchpad
 subtitle: 
 category:
-  - ClimateLauchPad
+  - CLimateLaunchpad
 author: Pedro Teixeira
 date: 2020-08-15T13:02:00.000Z
-featureImage: /uploads/clp_header_logo_xl.svg
+featureImage: /uploads/ClimateLaunchpad-No-Background.png
 ---
-[Read more at ClimateLaunchPad](https://globalfinal.climatelaunchpad.org/regional-finals/europe/).
+[Read more at ClimateLaunchpad](https://globalfinal.climatelaunchpad.org/regional-finals/europe/).
