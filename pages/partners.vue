@@ -10,15 +10,23 @@
         <div class="content">
         <div class="tile is-ancestor">
           <div class="tile is-parent">
-            <article class="tile is-child box">
-               <figure class=" ">
+
+            <a href="https://climatelaunchpad.org/">
+            <figure class=" ">
+              <opti-image
+                :src="require('~/assets/uploads/ClimateLaunchpad-No-Background.png').src"
+                :srcset="
+                  require('~/assets/uploads/ClimateLaunchpad-No-Background.png').srcSet
+                " width="200" height="200" 
+              />
+            </a>
+              <figure class=" ">
                 <opti-image
                   :src="require('~/assets/uploads/ClimateLaunchpad-No-Background.png').src"
                   :srcset="
                     require('~/assets/uploads/ClimateLaunchpad-No-Background.png').srcSet
-                  " width="175" height="175" 
+                  " width="200" height="200" 
                 />
-            </article>
           </div>
         </div>
         </div>
