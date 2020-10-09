@@ -14,20 +14,20 @@
             <a href="https://climatelaunchpad.org/">
             <figure class=" ">
               <opti-image
-                :src="require('~/assets/uploads/ClimateLaunchpad-No-Background.png').src"
+                :src="require('~/assets/uploads/partner-CLP.png').src"
                 :srcset="
-                  require('~/assets/uploads/ClimateLaunchpad-No-Background.png').srcSet
-                " width="250" height="250" 
+                  require('~/assets/uploads/partner-CLP.png').srcSet
+                " width="287" height="204" 
               />
             </a>
             
             <a href="https://uptec.up.pt/">
               <figure class=" ">
                 <opti-image
-                  :src="require('~/assets/uploads/UPTEC.png').src"
+                  :src="require('~/assets/uploads/partner-UPTEC.png').src"
                   :srcset="
-                    require('~/assets/uploads/UPTEC.png').srcSet
-                  " width="250" height="250" 
+                    require('~/assets/uploads/partner-UPTEC.png').srcSet
+                  " width="614" height="181" 
                 />
             </a>
           </div>
