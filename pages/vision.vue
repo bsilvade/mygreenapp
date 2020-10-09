@@ -8,15 +8,15 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>How can I make my life more sustainable?</h3>
+          <h3>Our goal: achieve zero carbon footprint together</h3>
           <p>
-           We live in a world facing climate change, pollution, destruction of natural ecosystems &amp; many of us want to do better, would like to achieve zero carbon footprint, but they don’t know how to do it. 
+          The world today is faced with climate change, pollution and destruction of natural ecosystems. One way to fight these threats to our planet and society is to achieve zero carbon footprint – balancing out man-made carbon dioxide emissions through reduction measures. 
           </p>
           <p>
-          Pedro Teixeira and Bruno Sousa are businessmen that travel a lot by plane, and, despite our strong environmental concerns, we found that it’s not easy to assess our individual Carbon footprint. Our objective is to make it easier to all customers, individuals and organizations, to monitor and offset their Carbon footprint.
+          As two frequently travelling businessmen concerned with the increasing environmental problems, we realised that calculating our personal carbon footprint is a particularly hard task without a proper tool to help us. This is how My Green App was born.
           </p>
           <p>
-          Our motivation is to contribute to a better world and at the same develop our own sustainable business, scalable, global, digital, and innovative. 
+          Our aim is to help people and organisations reduce their impact on nature by providing them with an easy and accessible tool to monitor and offset their carbon footprint. A step towards a more sustainable life.
           </p>
           <p>
           My Green App – Go green was born in October 2019 in Portugal &amp; Singapore.

@@ -1,9 +1,9 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="Team"
+      title="Our Team"
       subtitle=""
-      image="/uploads/home-hero.jpg"
+      image="/uploads/mga-team.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

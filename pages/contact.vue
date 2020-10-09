@@ -3,7 +3,7 @@
     <site-hero
       title="Contact Us"
       subtitle="Ideas or toughts? Get in touch!"
-      image="/uploads/contact-hero.jpg"
+      image="/uploads/mga-contact.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
