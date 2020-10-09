@@ -19,8 +19,20 @@ export default {
   },
   mainMenu: [
     {
+      name: 'Vision',
+      link: '/vision'
+    },
+    {
       name: 'About',
       link: '/about'
+    },
+    {
+      name: 'Team',
+      link: '/team'
+    },
+    {
+      name: 'Partners',
+      link: '/partners'
     },
     {
       name: 'Contact',
