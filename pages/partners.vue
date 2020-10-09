@@ -11,67 +11,13 @@
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
-            <div id="left">
-              <h3>
-                Pedro Teixeira
-              </h3>
-              <p class="subtitle">
-                CEO
-              </p>
-            </div>
-              <div id="right" style="float:right">
                <figure class=" ">
                 <opti-image
-                  :src="require('~/assets/uploads/Pedro Teixeira.png').src"
+                  :src="require('~/assets/uploads/ClimateLaunchpad-No-Background.png').src"
                   :srcset="
-                    require('~/assets/uploads/Pedro Teixeira.png').srcSet
-                  " width="125" height="125" 
+                    require('~/assets/uploads/ClimateLaunchpad-No-Background.png').srcSet
+                  " width="175" height="175" 
                 />
-              </div>
-              <div>
-              Regional Director in a listed MNC 
-              </br>
-              15+ years in P&L & M&S experience
-              </br>
-              Lived in Portugal, UK, Doha & Singapore
-              </br>
-              Master in Engineering; MBA
-              </br>
-              Top 10 in the Portuguese 40 Under 40 Award
-            </article>
-          </div>
-          
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <div id="left">
-              <h3>
-                Bruno Sousa
-              </h3>
-              <p class="subtitle">
-                CTO
-              </p>
-              </div>
-              <div id="right" style="float:right">
-               <figure class=" ">
-                <opti-image
-                  :src="require('~/assets/uploads/Bruno Sousa.png').src"
-                  :srcset="
-                    require('~/assets/uploads/Bruno Sousa.png').srcSet
-                  " width="125" height="125" 
-                />
-              </div>
-              <div>
-              IT Manager & Technology Strategist
-              </br>
-              14+ years experience
-              </br>
-              Lived in Portugal and Switzerland
-              </br>
-              Engineering Degree in Computing Science; MBA
-              </br>
-              Team Leader at CERN
-              </figure>
-              </div>
             </article>
           </div>
         </div>
