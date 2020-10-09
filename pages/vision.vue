@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Our Vision"
-      subtitle=""
+      subtitle="Inspired by nature"
       image="/uploads/mga-vision.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
