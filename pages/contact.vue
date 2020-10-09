@@ -16,15 +16,16 @@
         </div>
       </template>
       <template v-slot:sidebar>
-        <!-- h3 class="subtitle is-4">
-          The Journey
-        </h3 -->
+        <h3 class="subtitle is-4">
+          Latest News
+        </h3>
         <!-- Latest Posts -->
-        <!-- posts-grid :per-row="1" :number="2" / -->
+        <posts-grid :per-row="1" :number="2" />
       </template>
     </main-section>
   </div>
 </template>
+
   
 <script>
 import ContactForm from '~/components/ContactForm'
