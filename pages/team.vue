@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Our Team"
-      subtitle=""
+      subtitle="Socially responsible"
       image="/uploads/mga-team.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
