@@ -1,5 +1,5 @@
 ---
-title: MyGreenApp win the Portuguese National Final of ClimateLauchPad 2020
+title: MyGreenApp wins the Portuguese National Final of ClimateLauchPad 2020
 subtitle: 
 category:
   - CLimateLaunchpad

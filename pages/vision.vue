@@ -19,7 +19,7 @@
           Our aim is to help people and organisations reduce their impact on nature by providing them with an easy and accessible tool to monitor and offset their carbon footprint. A step towards a more sustainable life.
           </p>
           <p>
-          My Green App – Go green was born in October 2019 in Portugal &amp; Singapore.
+          My Green App – Go green was born in October 2019 with a collaboration between Portugal &amp; Singapore.
           </p>
         </div>
       </template>

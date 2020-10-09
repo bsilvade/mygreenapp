@@ -64,9 +64,9 @@
               <div>
               IT Manager & Technology Strategist
               </br>
-              14+ years experience
+              15+ years experience
               </br>
-              Lived in Portugal and Switzerland
+              Lived in Portugal, France and Switzerland
               </br>
               Engineering Degree in Computing Science; MBA
               </br>
