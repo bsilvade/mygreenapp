@@ -22,16 +22,7 @@
           My Green App – Go green was born in October 2019 in Portugal &amp; Singapore.
           </p>
         </div>
-    </div>
-</template>
-
-  <template v-slot:sidebar>
-    <h3 class="subtitle is-4">
-        Latest News
-      </h3>
-      <!-- Latest Posts -->
-      <posts-grid :per-row="1" :number="2" />
-    </template>
+      </template>
     </main-section>
   </div>
 </template>
