@@ -16,7 +16,7 @@
       <strong>Author:</strong> {{ author }} |
     </span>
     <span v-if="date" class="date-wrapper">
-      <strong>Published on:</strong> {{ datePretty }}
+      {{ datePretty }}
     </span>
   </generic-card>
 </template>
