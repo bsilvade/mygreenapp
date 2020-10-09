@@ -2,7 +2,7 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="Our Partners"
-      subtitle=""
+      subtitle="To make it real"
       image="/uploads/mga-partners.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
