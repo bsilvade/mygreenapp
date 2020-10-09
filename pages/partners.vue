@@ -3,7 +3,7 @@
     <site-hero
       title="Our Partners"
       subtitle=""
-      image="/uploads/mga-partners.jpg"
+      image="/uploads/mga-partners.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
