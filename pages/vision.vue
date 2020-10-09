@@ -3,7 +3,7 @@
     <site-hero
       title="Our Vision"
       subtitle=""
-      image="/uploads/home-hero.jpg"
+      image="/uploads/mga-vision.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
