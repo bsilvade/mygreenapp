@@ -17,16 +17,19 @@
                 :src="require('~/assets/uploads/ClimateLaunchpad-No-Background.png').src"
                 :srcset="
                   require('~/assets/uploads/ClimateLaunchpad-No-Background.png').srcSet
-                " width="200" height="200" 
+                " width="250" height="250" 
               />
             </a>
+            
+            <a href="https://uptec.up.pt/">
               <figure class=" ">
                 <opti-image
-                  :src="require('~/assets/uploads/ClimateLaunchpad-No-Background.png').src"
+                  :src="require('~/assets/uploads/UPTEC.png').src"
                   :srcset="
-                    require('~/assets/uploads/ClimateLaunchpad-No-Background.png').srcSet
-                  " width="200" height="200" 
+                    require('~/assets/uploads/UPTEC.png').srcSet
+                  " width="250" height="250" 
                 />
+            </a>
           </div>
         </div>
         </div>
