@@ -2,7 +2,7 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Us"
-      subtitle="Ideas or toughts? Get in touch"
+      subtitle="Ideas or thoughts? Get in touch"
       image="/uploads/mga-contact.jpeg"
     ></site-hero>
     <main-section theme="sidebar-right">

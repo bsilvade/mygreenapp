@@ -17,7 +17,7 @@
                 Pedro Teixeira
               </h3>
               <p class="subtitle">
-                CEO
+                <b>CEO</b>
               </p>
             </div>
               <div id="right" style="float:right">
@@ -29,7 +29,7 @@
                   " width="125" height="125" 
                 />
               </div>
-              <div>
+              <div style="text-align:justify">
               Regional Director in a listed MNC 
               </br>
               15+ years in P&L & M&S experience
@@ -49,7 +49,7 @@
                 Bruno Sousa
               </h3>
               <p class="subtitle">
-                CTO
+                <b>CTO</b>
               </p>
               </div>
               <div id="right" style="float:right">
@@ -61,7 +61,7 @@
                   " width="125" height="125" 
                 />
               </div>
-              <div>
+              <div style="text-align:justify">
               IT Manager & Technology Strategist
               </br>
               15+ years experience
