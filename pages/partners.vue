@@ -27,7 +27,7 @@
                   :src="require('~/assets/uploads/partner-UPTEC.png').src"
                   :srcset="
                     require('~/assets/uploads/partner-UPTEC.png').srcSet
-                  " width="614" height="181" 
+                  " width="620" height="181" 
                 />
             </a>
           </div>
