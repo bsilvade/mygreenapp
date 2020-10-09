@@ -8,7 +8,7 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-           <div class="tile is-ancestor">
+        <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
             <div id="left">
