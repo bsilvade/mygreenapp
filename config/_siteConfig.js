@@ -22,10 +22,10 @@ export default {
       name: 'Vision',
       link: '/vision'
     },
-    {
-      name: 'About',
-      link: '/about'
-    },
+    //{
+    //  name: 'About',
+    //  link: '/about'
+    //},
     {
       name: 'Team',
       link: '/team'
