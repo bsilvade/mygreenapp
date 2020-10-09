@@ -10,6 +10,24 @@
         <div class="content">
         <div class="tile is-ancestor">
           <div class="tile is-parent">
+            
+            <figure class=" ">
+                <opti-image
+                  :src="require('~/assets/uploads/Pedro Teixeira.png').src"
+                  :srcset="
+                    require('~/assets/uploads/Pedro Teixeira.png').srcSet
+                  " width="125" height="125" 
+                />
+
+            <figure class=" ">
+                <opti-image
+                  :src="require('~/assets/uploads/Pedro Teixeira.png').src"
+                  :srcset="
+                    require('~/assets/uploads/Pedro Teixeira.png').srcSet
+                  " width="125" height="125" 
+                />
+
+          
             <article class="tile is-child box">
             <div id="left">
               <h3>
