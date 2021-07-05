@@ -45,6 +45,7 @@
     "nuxt-responsive-loader": "^1.0.3",
     "opti-image": "^0.10.0",
     "react": "^16.8.6",
+    "sass-loader": "^7.1.0",
     "sharp": "^0.22.1",
     "showdown": "^1.9.1",
     "url-parse": "^1.4.7",
