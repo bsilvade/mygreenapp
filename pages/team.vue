@@ -76,6 +76,41 @@
             </article>
           </div>
         </div>
+                <div class="content">
+          <h3>Rest of the team</h3>
+           <div class="tile is-ancestor">
+          <div class="tile is-parent">
+            <article class="tile is-child box">
+            <div id="left">
+              <h3>
+                Pedro Teixeira
+              </h3>
+              <p class="subtitle">
+                <b>CEO</b>
+              </p>
+            </div>
+              <div id="right" style="float:right">
+               <figure class=" ">
+                <opti-image
+                  :src="require('~/assets/uploads/Pedro Teixeira.png').src"
+                  :srcset="
+                    require('~/assets/uploads/Pedro Teixeira.png').srcSet
+                  " width="125" height="125" 
+                />
+              </div>
+              <div style="text-align:justify">
+              Regional Director in a listed MNC 
+              </br>
+              15+ years in P&L & M&S experience
+              </br>
+              Lived in Portugal, UK, Doha & Singapore
+              </br>
+              Master in Engineering; MBA
+              </br>
+              Top 10 in the Portuguese 40 Under 40 Award
+            </article>
+          </div>
+        </div>
         </div>
         </template>
 
