@@ -1,5 +1,5 @@
 ---
-title: The MyGreenApp team working hard to start its MVP development!
+title: The MyGreenApp team working hard to start its MVP
 subtitle: 
 category:
   - Team
