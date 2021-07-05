@@ -87,7 +87,7 @@
                   :src="require('~/assets/uploads/MGA_20210527.png').src"
                   :srcset="
                     require('~/assets/uploads/MGA_20210527.png').srcSet
-                  " width="855" height="425" 
+                  " width="900" height="425" 
                 />
               
             </div>
