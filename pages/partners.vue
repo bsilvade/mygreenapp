@@ -19,6 +19,7 @@
                   require('~/assets/uploads/partner-CLP.png').srcSet
                 " width="287" height="204" 
               />
+              </figure>
             </a>
             
             <a href="https://uptec.up.pt/">
@@ -29,6 +30,7 @@
                     require('~/assets/uploads/partner-UPTEC.png').srcSet
                   " width="620" height="181" 
                 />
+                </figure>
             </a>
           </div>
         </div>

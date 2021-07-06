@@ -41,8 +41,8 @@
                     require('~/assets/uploads/Pedro Teixeira.png').srcSet
                   " width="125" height="125" 
                 />
+                </figure>
               </div>
-              <div>
               Regional Director in a listed MNC 
               </br>
               15+ years in P&L & M&S experience
@@ -73,6 +73,7 @@
                     require('~/assets/uploads/Bruno Sousa.png').srcSet
                   " width="125" height="125" 
                 />
+                </figure>
               </div>
               <div>
               IT Manager & Technology Strategist
@@ -84,7 +85,6 @@
               Engineering Degree in Computing Science; MBA
               </br>
               Team Leader at CERN
-              </figure>
               </div>
             </article>
           </div>

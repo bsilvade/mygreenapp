@@ -28,6 +28,7 @@
                     require('~/assets/uploads/Pedro Teixeira.png').srcSet
                   " width="125" height="125" 
                 />
+              </figure>
               </div>
               <div style="text-align:justify">
               Regional Director in a listed MNC 
@@ -39,6 +40,7 @@
               Master in Engineering; MBA
               </br>
               Top 10 in the Portuguese 40 Under 40 Award
+              </div>
             </article>
           </div>
           
@@ -60,6 +62,7 @@
                     require('~/assets/uploads/Bruno Sousa.png').srcSet
                   " width="125" height="125" 
                 />
+              </figure>
               </div>
               <div style="text-align:justify">
               IT Manager & Technology Strategist
@@ -71,12 +74,11 @@
               Engineering Degree in Computing Science; MBA
               </br>
               Team Leader at CERN
-              </figure>
               </div>
             </article>
           </div>
         </div>
-                <div class="content">
+      <div class="content">
           <h3>MyGreenApp team</h3>
            <div class="tile is-ancestor">
           <div class="tile is-parent">
@@ -89,7 +91,7 @@
                     require('~/assets/uploads/MGA_20210527.png').srcSet
                   " width="950" height="375" 
                 />
-              
+              </figure>
             </div>
             </article>
           </div>
