@@ -12,7 +12,7 @@
     "dev": "npm run before-build && nuxt -o && npm run after-build",
     "build": "npm run before-build && nuxt build && npm run after-build",
     "start": "nuxt start",
-    "generate": "npm run before-build && nuxt generate && npm run after-build"
+    "generate": "node -r esm ./build-tools/beforeBuild.js && npm run before-build && nuxt generate && npm run after-build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
