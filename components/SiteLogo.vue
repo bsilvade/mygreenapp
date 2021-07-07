@@ -6,7 +6,15 @@
         blink: blinking
       }"
     >
-      <img src="/logo-frames/greenapplogo.jpeg"
+      <img
+        v-for="x in frames"
+        :key="x"
+        :src="`/logo-frames/logo-f${x - 1}.svg`"
+      />
+      <img
+        v-for="x in frames"
+        :key="`${x}-r`"
+        :src="`/logo-frames/logo-f${frames - x}.svg`"
       />
     </div>
   </div>
@@ -18,7 +26,7 @@ export default {
     return {
       frames: 5,
       currentFrame: 1,
-      blinking: false
+      blinking: true
     }
   },
   mounted() {
@@ -48,6 +56,9 @@ export default {
       height: 40px;
       margin: 5px;
       max-height: initial;
+    }
+    &.blink {
+      animation: logoBlink 0.2s steps(8, end) alternate;
     }
   }
 }
