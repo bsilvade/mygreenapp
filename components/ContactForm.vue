@@ -1,10 +1,20 @@
 <template>
-  <form>
-    <!-- Name -->
+  <form
+    name="contactUs"
+    method="POST"
+    data-netlify="true"
+    netlify-honeypot="bot-field"
+  >
+    <input type="hidden" name="form-name" value="contactUs" />
+    <p class="hidden">
+      <label>
+        Don’t fill this out if you're human: <input name="bot-field" />
+      </label>
+    </p>
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="John Smith" />
+        <input name="name" class="input is-medium" type="text" placeholder="" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -15,26 +25,13 @@
       <label class="label is-medium">Email</label>
       <div class="control has-icons-left">
         <input
+          name="email"
           class="input is-medium"
           type="email"
-          placeholder="you@email.com"
+          placeholder=""
         />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="envelope" />
-        </span>
-      </div>
-    </div>
-    <!-- Subject -->
-    <div class="field">
-      <label class="label is-medium">Subject</label>
-      <div class="control has-icons-left">
-        <input
-          class="input is-medium"
-          type="text"
-          placeholder="Brief Summary"
-        />
-        <span class="icon is-small is-left">
-          <font-awesome-icon icon="briefcase" />
         </span>
       </div>
     </div>
@@ -43,6 +40,7 @@
       <label class="label is-medium">Message</label>
       <div class="control">
         <textarea
+          name="message"
           class="textarea"
           placeholder="Detailed description of your comment, request, etc"
           rows="8"
@@ -56,3 +54,8 @@
     </div>
   </form>
 </template>
+<style>
+.hidden {
+  visibility: hidden;
+}
+</style>

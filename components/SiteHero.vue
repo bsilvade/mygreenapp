@@ -11,6 +11,17 @@
         <h1 class="title animated fadeInUp">
           {{ title }}
         </h1>
+        <center v-if="showvideo">
+          <video
+            width="640"
+            heigh="240"
+            autoplay
+            controls
+            poster="/greenapplogo.jpeg"
+          >
+            <source src="/MyGreenApp.mp4" type="video/mp4" />
+          </video>
+        </center>
         <h2 class="subtitle animated fadeInUp slower">
           {{ subtitle }}
         </h2>
@@ -33,7 +44,8 @@ export default {
     subtitle: { type: String, default: '' },
     image: { type: String, default: '' },
     color: { type: String, default: '#469af0' },
-    theme: { type: String, default: '' }
+    theme: { type: String, default: '' },
+    showvideo: { type: Boolean, default: false }
   },
   computed: {
     responsiveImage() {

@@ -7,101 +7,95 @@
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
-        <div class="content">
-        </div>
-          <h3>Founders</h3>
-           <div class="tile is-ancestor">
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-            <div id="left">
-              <h3>
-                Pedro Teixeira
-              </h3>
-              <p class="subtitle">
-                <b>CEO</b>
-              </p>
-            </div>
-              <div id="right" style="float:right">
-               <figure class=" ">
-                <opti-image
-                  :src="require('~/assets/uploads/Pedro Teixeira.png').src"
-                  :srcset="
-                    require('~/assets/uploads/Pedro Teixeira.png').srcSet
-                  " width="125" height="125" 
-                />
-              </figure>
-              </div>
-              <div style="text-align:justify">
-              Regional Director in a listed MNC 
-              </br>
-              15+ years in P&L & M&S experience
-              </br>
-              Lived in Portugal, UK, Doha & Singapore
-              </br>
-              Master in Engineering; MBA
-              </br>
-              Top 10 in the Portuguese 40 Under 40 Award
-              </div>
-            </article>
-          </div>
-          
+        <h3>Founders</h3>
+        <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <div id="left">
-              <h3>
-                Bruno Sousa
-              </h3>
-              <p class="subtitle">
-                <b>CTO</b>
-              </p>
+                <p class="subtitle">
+                  <b>Pedro Teixeira - CEO</b>
+                </p>
               </div>
               <div id="right" style="float:right">
-               <figure class=" ">
-                <opti-image
-                  :src="require('~/assets/uploads/Bruno Sousa.png').src"
-                  :srcset="
-                    require('~/assets/uploads/Bruno Sousa.png').srcSet
-                  " width="125" height="125" 
-                />
-              </figure>
+                <figure class=" ">
+                  <opti-image
+                    :src="require('~/assets/uploads/Pedro Teixeira.png').src"
+                    :srcset="
+                      require('~/assets/uploads/Pedro Teixeira.png').srcSet
+                    "
+                    width="125"
+                    height="125"
+                  />
+                </figure>
               </div>
               <div style="text-align:justify">
-              IT Manager & Technology Strategist
-              </br>
-              15+ years experience
-              </br>
-              Lived in Portugal, France and Switzerland
-              </br>
-              Engineering Degree in Computing Science; MBA
-              </br>
-              Team Leader at CERN
+                Regional Director in a listed MNC
+                <br />
+                15+ years in P&L & M&S experience
+                <br />
+                Lived in Portugal, UK, Doha & Singapore
+                <br />
+                Master in Engineering; MBA
+                <br />
+                Top 10 in the Portuguese 40 Under 40 Award
+              </div>
+            </article>
+          </div>
+          <div class="tile is-parent">
+            <article class="tile is-child box">
+              <div id="left">
+                <p class="subtitle">
+                  <b>Bruno Sousa - CTO</b>
+                </p>
+              </div>
+              <div id="right" style="float:right">
+                <figure class=" ">
+                  <opti-image
+                    :src="require('~/assets/uploads/Bruno Sousa.png').src"
+                    :srcset="require('~/assets/uploads/Bruno Sousa.png').srcSet"
+                    width="125"
+                    height="125"
+                  />
+                </figure>
+              </div>
+              <div style="text-align:justify">
+                IT Manager & Technology Strategist
+                <br />
+                15+ years experience
+                <br />
+                Lived in Portugal, France and Switzerland
+                <br />
+                Engineering Degree in Computing Science; MBA
+                <br />
+                Team Leader at CERN
               </div>
             </article>
           </div>
         </div>
-      <div class="content">
+        <div class="content">
           <h3>MyGreenApp team</h3>
-           <div class="tile is-ancestor">
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-            <div id="left">
-            <figure class=" ">
-                <opti-image
-                  :src="require('~/assets/uploads/MGA_20210527.png').src"
-                  :srcset="
-                    require('~/assets/uploads/MGA_20210527.png').srcSet
-                  " width="950" height="375" 
-                />
-              </figure>
+          <div class="tile is-ancestor">
+            <div class="tile is-parent">
+              <article class="tile is-child box">
+                <div id="left">
+                  <figure class=" ">
+                    <opti-image
+                      :src="require('~/assets/uploads/MGA_20210527.png').src"
+                      :srcset="
+                        require('~/assets/uploads/MGA_20210527.png').srcSet
+                      "
+                      width="950"
+                      height="375"
+                    />
+                  </figure>
+                </div>
+              </article>
             </div>
-            </article>
           </div>
         </div>
-        </div>
-        </template>
-
+      </template>
       <template v-slot:sidebar>
-      <h3 class="subtitle is-4">
+        <h3 class="subtitle is-4">
           Latest News
         </h3>
         <!-- Latest Posts -->
@@ -110,14 +104,3 @@
     </main-section>
   </div>
 </template>
-<script>
-import QuoteCard from '~/components/cards/QuoteCard'
-export default {
-  head() {
-    return {
-      title: `Team | ${this.$siteConfig.siteName}`
-    }
-  },
-  components: { QuoteCard }
-}
-</script>
