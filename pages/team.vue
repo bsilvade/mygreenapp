@@ -7,7 +7,6 @@
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
-        <h3>Founders</h3>
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
@@ -73,7 +72,6 @@
           </div>
         </div>
         <div class="content">
-          <h3>MyGreenApp team</h3>
           <div class="tile is-ancestor">
             <div class="tile is-parent">
             <article class="tile is-child box">
