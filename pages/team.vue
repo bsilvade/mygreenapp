@@ -71,6 +71,31 @@
               </div>
             </article>
           </div>
+            <div class="tile is-parent">
+            <article class="tile is-child box">
+              <div id="left">
+                <p class="subtitle">
+                  <b>Francisco Ferreira - Product Manager</b>
+                </p>
+              </div>
+              <div id="right" style="float:right">
+                <figure class=" ">
+                  <opti-image
+                    :src="require('~/assets/uploads/Francisco Ferreira.png').src"
+                    :srcset="require('~/assets/uploads/Francisco Ferreira.png').srcSet"
+                    width="125"
+                    height="125"
+                  />
+                </figure>
+              </div>
+              <div style="text-align:justify">
+                Master in Environmental Engineering @ FEUP
+                <br />
+                Based in Portugal
+                <br />
+              </div>
+            </article>
+          </div>
         </div>
         <div class="content">
           <h3>MyGreenApp team</h3>
