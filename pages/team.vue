@@ -71,6 +71,10 @@
               </div>
             </article>
           </div>
+        </div>
+        <div class="content">
+          <h3>MyGreenApp team</h3>
+          <div class="tile is-ancestor">
             <div class="tile is-parent">
             <article class="tile is-child box">
               <div id="left">
@@ -96,28 +100,8 @@
               </div>
             </article>
           </div>
-        </div>
-        <div class="content">
-          <h3>MyGreenApp team</h3>
-          <div class="tile is-ancestor">
-            <div class="tile is-parent">
-              <article class="tile is-child box">
-                <div id="left">
-                  <figure class=" ">
-                    <opti-image
-                      :src="require('~/assets/uploads/MGA_20210527.png').src"
-                      :srcset="
-                        require('~/assets/uploads/MGA_20210527.png').srcSet
-                      "
-                      width="950"
-                      height="375"
-                    />
-                  </figure>
-                </div>
-              </article>
-            </div>
+
           </div>
-        </div>
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
