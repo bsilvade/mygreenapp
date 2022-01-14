@@ -7,7 +7,6 @@
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
-        <h3>Founders</h3>
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
@@ -95,6 +94,36 @@
                 <br />
                 Based in Portugal
                 <br />
+              </div>
+            </article>
+          </div>
+                    <div class="tile is-parent">
+            <article class="tile is-child box">
+              <div id="left">
+                <p class="subtitle">
+                  <b>Bruno Sousa - CTO</b>
+                </p>
+              </div>
+              <div id="right" style="float:right">
+                <figure class=" ">
+                  <opti-image
+                    :src="require('~/assets/uploads/Bruno Sousa.png').src"
+                    :srcset="require('~/assets/uploads/Bruno Sousa.png').srcSet"
+                    width="125"
+                    height="125"
+                  />
+                </figure>
+              </div>
+              <div style="text-align:justify">
+                IT Manager & Technology Strategist
+                <br />
+                15+ years experience
+                <br />
+                Lived in Portugal, France and Switzerland
+                <br />
+                Engineering Degree in Computing Science; MBA
+                <br />
+                Team Leader at CERN
               </div>
             </article>
           </div>
