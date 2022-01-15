@@ -97,7 +97,7 @@
               </div>
             </article>
           </div>
-                    <div class="tile is-parent">
+            <div class="tile is-parent" style="visibility:hidden">
             <article class="tile is-child box">
               <div id="left">
                 <p class="subtitle">
