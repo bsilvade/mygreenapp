@@ -101,29 +101,23 @@
             <article class="tile is-child box">
               <div id="left">
                 <p class="subtitle">
-                  <b>Bruno Sousa - CTO</b>
+                  <b>Francisca Falcão - Product Manager</b>
                 </p>
               </div>
               <div id="right" style="float:right">
                 <figure class=" ">
                   <opti-image
-                    :src="require('~/assets/uploads/Bruno Sousa.png').src"
-                    :srcset="require('~/assets/uploads/Bruno Sousa.png').srcSet"
+                    :src="require('~/assets/uploads/Francisca Falcao.png').src"
+                    :srcset="require('~/assets/uploads/Francisca Falcao.png').srcSet"
                     width="125"
                     height="125"
                   />
                 </figure>
               </div>
               <div style="text-align:justify">
-                IT Manager & Technology Strategists
+                Master in Environmental Engineering @ FEUP
                 <br />
-                15+ years experience
-                <br />
-                Lived in Portugal, France and Switzerland
-                <br />
-                Engineering Degree in Computing Science; MBA
-                <br />
-                Team Leader at CERN
+                Based in Portugal
               </div>
             </article>
           </div>
