@@ -115,7 +115,7 @@
                 </figure>
               </div>
               <div style="text-align:justify">
-                IT Manager & Technology Strategist
+                IT Manager & Technology Strategists
                 <br />
                 15+ years experience
                 <br />
