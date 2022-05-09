@@ -76,7 +76,7 @@
             <article class="tile is-child box">
               <div id="left">
                 <p class="subtitle">
-                  <b>Francisco Ferreira - Product Manager</b>
+                  <b>Francisco Ferreira - Business Development</b>
                 </p>
               </div>
               <div id="right" style="float:right">
