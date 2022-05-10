@@ -155,51 +155,30 @@
             <article class="tile is-child box">
               <div id="left">
                 <p class="subtitle">
-                  <b>Francisca Falcão - Product Manager</b>
+                  <b>Sofia Alves - Marketing & Sales</b>
                 </p>
               </div>
               <div id="right" style="float:right">
                 <figure class=" ">
                   <opti-image
-                    :src="require('~/assets/uploads/Francisca Falcao.png').src"
-                    :srcset="require('~/assets/uploads/Francisca Falcao.png').srcSet"
+                    :src="require('~/assets/uploads/Sofia Alves.png').src"
+                    :srcset="require('~/assets/uploads/Sofia Alves.png').srcSet"
                     width="125"
                     height="125"
                   />
                 </figure>
               </div>
               <div style="text-align:justify">
-                Master in Environmental Engineering @ FEUP
+                Degree in Bachelor's Degree Marketing / Marketing Management 
                 <br />
-                Based in Portugal
+                Visual Merchandising course by University of Arts of London
+                <br />
+                Key Account Manager, Sales and Visual Merchandiser with 10+ years
+                <br />
+                Lived in Portugal, UK, Qatar, Singapore & Thailand
               </div>
             </article>
           </div>
-            <div class="tile is-parent">
-            <article class="tile is-child box">
-              <div id="left">
-                <p class="subtitle">
-                  <b>Francisca Falcão - Product Manager</b>
-                </p>
-              </div>
-              <div id="right" style="float:right">
-                <figure class=" ">
-                  <opti-image
-                    :src="require('~/assets/uploads/Francisca Falcao.png').src"
-                    :srcset="require('~/assets/uploads/Francisca Falcao.png').srcSet"
-                    width="125"
-                    height="125"
-                  />
-                </figure>
-              </div>
-              <div style="text-align:justify">
-                Master in Environmental Engineering @ FEUP
-                <br />
-                Based in Portugal
-              </div>
-            </article>
-          </div>
-
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
