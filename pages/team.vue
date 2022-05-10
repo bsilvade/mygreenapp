@@ -182,6 +182,33 @@
             </article>
           </div>
           </div>
+          <div class="tile is-ancestor">
+           <div class="tile is-parent">
+            <article class="tile is-child box">
+              <div id="left">
+                <p class="subtitle">
+                  <b>Manuel Heitor - Advisor</b>
+                </p>
+              </div>
+              <div id="right" style="float:right">
+                <figure class=" ">
+                  <opti-image
+                    :src="require('~/assets/uploads/Manuel Heitor.png').src"
+                    :srcset="require('~/assets/uploads/Manuel Heitor.png').srcSet"
+                    width="125"
+                    height="125"
+                  />
+                </figure>
+              </div>
+              <div style="text-align:justify">
+                Former Minister for Science, Technology and Higher Education of Portugal from 2015 until 2022.
+                <br />
+                Secretary of State for Science, Technology and Higher Education of Portugal from 2005 until 2011 
+                <br />
+                Graduated with a PhD in Mechanical Engineering from Imperial College London, and did a post-doctoral at the University of California, San Diego.
+              </div>
+            </article>
+          </div>
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
