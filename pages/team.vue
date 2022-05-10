@@ -121,6 +121,79 @@
               </div>
             </article>
           </div>
+                      <div class="tile is-parent">
+            <article class="tile is-child box">
+              <div id="left">
+                <p class="subtitle">
+                  <b>Francisca Falcão - Product Manager</b>
+                </p>
+              </div>
+              <div id="right" style="float:right">
+                <figure class=" ">
+                  <opti-image
+                    :src="require('~/assets/uploads/Francisca Falcao.png').src"
+                    :srcset="require('~/assets/uploads/Francisca Falcao.png').srcSet"
+                    width="125"
+                    height="125"
+                  />
+                </figure>
+              </div>
+              <div style="text-align:justify">
+                Master in Environmental Engineering @ FEUP
+                <br />
+                Based in Portugal
+              </div>
+            </article>
+          </div>
+            <div class="tile is-parent">
+            <article class="tile is-child box">
+              <div id="left">
+                <p class="subtitle">
+                  <b>Francisca Falcão - Product Manager</b>
+                </p>
+              </div>
+              <div id="right" style="float:right">
+                <figure class=" ">
+                  <opti-image
+                    :src="require('~/assets/uploads/Francisca Falcao.png').src"
+                    :srcset="require('~/assets/uploads/Francisca Falcao.png').srcSet"
+                    width="125"
+                    height="125"
+                  />
+                </figure>
+              </div>
+              <div style="text-align:justify">
+                Master in Environmental Engineering @ FEUP
+                <br />
+                Based in Portugal
+              </div>
+            </article>
+          </div>
+            <div class="tile is-parent">
+            <article class="tile is-child box">
+              <div id="left">
+                <p class="subtitle">
+                  <b>Francisca Falcão - Product Manager</b>
+                </p>
+              </div>
+              <div id="right" style="float:right">
+                <figure class=" ">
+                  <opti-image
+                    :src="require('~/assets/uploads/Francisca Falcao.png').src"
+                    :srcset="require('~/assets/uploads/Francisca Falcao.png').srcSet"
+                    width="125"
+                    height="125"
+                  />
+                </figure>
+              </div>
+              <div style="text-align:justify">
+                Master in Environmental Engineering @ FEUP
+                <br />
+                Based in Portugal
+              </div>
+            </article>
+          </div>
+
       </template>
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
