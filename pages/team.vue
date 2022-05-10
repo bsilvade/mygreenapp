@@ -171,7 +171,7 @@
                 </figure>
               </div>
               <div style="text-align:justify">
-                Degree in Bachelor's Degree Marketing / Marketing Management 
+                Bachelor's Degree Marketing / Marketing Management 
                 <br />
                 Visual Merchandising course by University of Arts of London
                 <br />
