@@ -127,6 +127,8 @@
               </div>
             </article>
           </div>
+          </div>
+           <div class="tile is-ancestor">
             <div class="tile is-parent">
             <article class="tile is-child box">
               <div id="left">
@@ -178,6 +180,7 @@
                 Lived in Portugal, UK, Qatar, Singapore & Thailand
               </div>
             </article>
+          </div>
           </div>
       </template>
       <template v-slot:sidebar>
