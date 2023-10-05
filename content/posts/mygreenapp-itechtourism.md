@@ -1,8 +1,8 @@
 ---
-MyGreenApp is thrilled to announce its selection for the prestigious iTechTourism Program. 
+title: MyGreenApp is thrilled to announce its selection for the prestigious iTechTourism Program.
 subtitle: 
 category:
-  - ITechTourism
+  - Accelerator
 author: Francisca Falcão
 date: 2023-09-1T13:02:00.000Z
 featureImage: /uploads/mga-itechtourism.jpg
