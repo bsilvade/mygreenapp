@@ -1,0 +1,14 @@
+---
+title: MyGreenApp Wishes You Sustainable Season's Greetings!
+subtitle: 
+category:
+  - News
+author: Francisca Falcão
+date: 2024-12-24T13:02:00.000Z
+featureImage: /uploads/natal2024.png
+---
+As we bid farewell to another successful year, MyGreenApp extends heartfelt thanks to our partners for their continued support. May your holidays be filled with sustainable cheer and shared moments of joy.
+Happy Holidays and a Prosperous New Year!
+
+Best wishes,
+The MyGreenApp Team
