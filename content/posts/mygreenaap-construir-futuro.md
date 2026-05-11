@@ -1,5 +1,5 @@
 ---
-title: #Construir Futuro MyGreenApp apoiada pelo IEFP
+title: MyGreenApp apoiada pelo IEFP com o programa Construir Futuro
 subtitle: 
 category:
   - News
