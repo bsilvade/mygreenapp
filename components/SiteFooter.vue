@@ -1,5 +1,5 @@
 <template>
-  <div class="e-con-inner">
+  <div class="e-con-inner" style="padding=.75rem">
 		<div class="elementor-element elementor-element-a821928 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child" data-id="a821928" data-element_type="container" data-settings="{&quot;_ha_eqh_enable&quot;:false}">
 				<div class="elementor-element elementor-element-85b6f9d exad-sticky-section-no exad-glass-effect-no jltma-glass-effect-no elementor-widget elementor-widget-image" data-id="85b6f9d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
